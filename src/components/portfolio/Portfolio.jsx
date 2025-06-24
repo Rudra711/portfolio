@@ -8,7 +8,7 @@ const items = [
     id: 1,
     title: "Vibesphere",
     img: "./vibesphere.png",
-    desc: "FinanceMate is a financial management tool that helps users track budgets, expenses, and overall financial health. Developed using the MERN stack, the platform offers an intuitive dashboard with interactive charts and tables. Users can manage budgets, categorize expenses, and view detailed spending reports. With secure authentication and a user-friendly interface, FinanceMate simplifies financial planning and promotes better money management.",
+    desc: "Vibesphere is a social media application built with React and Appwrite, aimed at providing a platform for users to share posts, connect with others, and explore content.",
     link: "https://vibesphere.netlify.app/",
   },
 
@@ -16,7 +16,7 @@ const items = [
     id: 2,
     title: "POKO-search",
     img: "./poko-search.png",
-    desc: "Tomato is a food delivery app that offers a wide range of food options for users to order from. Developed using the MERN stack, the platform features integrated payment options for a seamless checkout experience. Users can view their order history in the 'Orders' section, while admins have access to a comprehensive admin panel to manage and track all orders. With a user-friendly interface and secure payment integration, Tomato provides a convenient and efficient food ordering experience.",
+    desc: "This Pokedex app features a sleek interface built with ReactJs, Redux, and Tailwind CSS. It fetches detailed Pokémon data via PokeAPI with responsive pagination. The backend uses Firebase for secure user authentication, real-time database, and token-based sessions, enabling users to manage their favorite Pokémon seamlessly.",
     link: "https://poko-search.onrender.com/",
   },
 
@@ -24,7 +24,7 @@ const items = [
     id: 3,
     title: "Storify",
     img: "./storify.png",
-    desc: "I have developed a comprehensive website for tracking cryptocurrency trends. This platform provides detailed information on all bitcoins available in the market, featuring interactive graphs that display price movements, total trading volume, and market capitalization. Users can monitor market changes over various timeframes,enabling them to make informed investment decisions based on historical data and trends.",
+    desc: "This Google Drive clone enables users to upload, organize, and share files seamlessly. Built with Next.js 15, React 19, Tailwind CSS, TypeScript, and ShadCN-UI, it leverages Appwrite for OTP-based user authentication and secure file storage. Zod ensures robust type validation and error-free form handling. Key features include file renaming, categorization by type, and sharing capabilities, offering a smooth and secure file management experience.",
     link: "https://storifyy.vercel.app/sign-in",
   },
 
